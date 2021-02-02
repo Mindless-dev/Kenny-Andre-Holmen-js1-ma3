@@ -1,0 +1,14 @@
+.game {
+  border: solid 1px black;
+  margin: 10px;
+  width: 200px;
+}
+
+.game > p {
+  margin-left: 10px;
+}
+
+.games {
+  display: flex;
+  flex-wrap: wrap;
+}
